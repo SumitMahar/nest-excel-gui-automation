@@ -1,0 +1,10 @@
+Refreshing the Market-Watch : Sun Oct 10 19:44:39 2021 
+Refreshing the Market-Watch : Sun Oct 10 19:45:00 2021 
+Refreshing the Market-Watch : Sun Oct 10 19:45:20 2021 
+************************************************************
+PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Refreshing the Market-Watch : Sun Oct 10 19:46:18 2021 
+Refreshing the Market-Watch : Sun Oct 10 19:46:38 2021 
+Refreshing the Market-Watch : Sun Oct 10 19:46:59 2021 
+************************************************************
+PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
